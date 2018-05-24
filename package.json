@@ -1,6 +1,6 @@
 {
   "name": "kno-slider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Responsive slider",
   "main": "./dist/kno-slider.js",
   "author":  {

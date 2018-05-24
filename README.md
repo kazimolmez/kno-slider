@@ -19,7 +19,7 @@ Responsive Slider
 <script type="text/javascript" src="dist/js/kno-slider.js"></script>
 ```
 
-#### 2. kno-slider it!
+### 2. kno-slider it!
 
 Then create the necessary tags in the `body` tag:
 
